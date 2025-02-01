@@ -1,3 +1,11 @@
+# To run the app.
+
+- ```npm i``` for installing the required modules 
+- ```npm run dev``` to run the app
+- ```npm run storybook``` to run storybook
+
+---
+
 <h1>React Latest (Webpack | TypeScript)</h1>
 
 <p>
@@ -19,3 +27,5 @@
 <pre>
   yarn storybook
 </pre>
+
+
