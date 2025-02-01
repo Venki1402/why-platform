@@ -4,6 +4,9 @@
 - ```npm run dev``` to run the app
 - ```npm run storybook``` to run storybook
 
+# output
+<img width="1440" alt="Screenshot 2025-02-01 at 4 56 18 PM" src="https://github.com/user-attachments/assets/9d2051d8-7921-449f-be38-4fede1e30b6a" />
+
 ---
 
 <h1>React Latest (Webpack | TypeScript)</h1>
